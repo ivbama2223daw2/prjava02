@@ -1,0 +1,27 @@
+Exercici 1 
+  git branch branca00
+  git checkout branca00
+  git status
+Exercici 5 
+  git checkout main
+  git status
+Exercici 7 
+  git checkout branca00
+  pluma Prjava02.java
+Exercici 10b 
+  git checkout main
+  git merge branca00
+Exercici 12 
+  git push
+Exercici 14a 
+  git push --set-upstream origin branca01
+
+
+Exercici 6 
+  No, ya que los cambios han sido realizados en la rama branca00 debido a eso no se puede ver.
+Exercici 7  
+  Si, como estamos en la misma rama los cambios se mantienen.
+Exercici 12c 
+  Es donde el push se ha establezido.
+Exercici 14c 
+  Nada más uno.
